@@ -76,7 +76,7 @@ All notebooks are self-contained and run with standard scientific Python. No fin
 
 ## Related
 
-For applied SDE construction grounded in geoeconomic hypotheses — including case-specific derivations, numerical solvers, and calibration against real market data — refer to the [Geoeconomic SDE](https://github.com/aakashagarwal/geoeconomic-sde) project, which applies these foundations across five cases.
+For applied SDE construction grounded in geoeconomic hypotheses — including case-specific derivations, numerical solvers, and calibration against real market data — refer to the [Geoeconomic SDE](https://github.com/aakashagarwal778/geoeconomic-sde) project, which applies these foundations across five cases.
 
 ---
 
